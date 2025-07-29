@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+streamlit
+librosa
+scikit-learn
+pandas
+numpy
+soundfile
+matplotlib
+plotly
+sounddevice
